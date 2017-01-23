@@ -8,14 +8,14 @@ No grupo você encontra duelistas veteranos, dicas e muita zoeira (essa parte n�
 
 **Como convidar um amigo para duelar?**
 
-- Primeiramente você precisa desbloquear o PvP/JxJ completado as missões da fase, simplesmente clique no nome do seu amigo no chat e clique em adicionar, para aceitar um pedido vá até o menu do jogo e clique no icone perfil no canto superior direito e depois em amigos. Para duelar, simplesmente vá até o menu JxJ.
+- Primeiramente você precisa desbloquear o PvP/JxJ completado as missões da fase, vá até o menu do jogo e clique no icone perfil no canto superior direito e depois em amigos. Para duelar, simplesmente vá até a Arena JxJ.
 
 **Qual pacote de cartas comprar?**
 
 - É recomendado o primeiro pacote para iniciantes.
 
 ## Ganhando gemas
-Para ganhar gemas simplesmente complete as missões da fase e também a escola de duelo.
+Para ganhar gemas simplesmente complete as missões da fase, completando a escola de duelo também dá games.
 
 ### Sim, eu sei
 GitHub pages foi feito para projetos open source e páginas pessoais, só que eu estou cagando e andando para isso, minha web skill é uma merda, então...
