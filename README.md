@@ -3,6 +3,7 @@ No grupo você encontra duelistas veteranos, dicas e muita zoeira (essa parte n�
 
 ## FAQ
 **Pra quê serve as moedas/gold?**
+
 - Para negociar com o mercador de cartas que aparece na fase 6-7.
 
 **Como convidar um amigo para duelar?**
