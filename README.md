@@ -8,7 +8,7 @@ No grupo você encontra duelistas veteranos, dicas e muita zoeira (essa parte n�
 
 **Como convidar um amigo para duelar?**
 
-- Primeiramente você precisa desbloquear o PvP/JxJ completado as missões da fase, vá até o menu do jogo e clique no icone perfil no canto superior direito e depois em amigos. Para duelar, simplesmente vá até a Arena JxJ.
+- Primeiramente você precisa desbloquear o PvP/JxJ completado as missões da fase, vá até a home do jogo e clique no icone perfil no canto superior direito e depois em amigos, você pode adicionar pela ID ou pesquisar nomes. Para duelar, simplesmente vá até a Arena JxJ.
 
 **Qual pacote de cartas comprar?**
 
