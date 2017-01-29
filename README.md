@@ -29,6 +29,15 @@ As melhores cartas que você pode comprar do mercador são:
 
 - É recomendado o primeiro pacote para iniciantes, o terceiro pacote também contém cartas especiais.
 
+**Quais são os ranks disponíveis? ;-;**
+
+- Recruta
+- Bronze
+- Prata
+- Ouro
+- Platina
+- Rei dos Jogos
+
 ## Ganhando gemas
 Para ganhar gemas complete as missões da fase, suba no rank nos duelos rankeados, complete a escola de duelo, suba o nível dos personagens e sempre entre no jogo, pois a KONAMI dá gemas de vez enquanto.
 
