@@ -10,7 +10,7 @@ No grupo você encontra duelistas veteranos, dicas e muita zoeira (essa parte n�
 
 As melhores cartas que você pode comprar do mercador são:
 
-- __Besta Mítica Cérbero__ - Super Rara
+* __Besta Mítica Cérbero__ - Super Rara
 
 __Inovcador do Dragão Azul__ - Super Rara
 __Dragão de Cano Duplo__ - Ultra Rara
