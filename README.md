@@ -9,12 +9,12 @@ No grupo você encontra duelistas veteranos, dicas e muita zoeira (essa parte n�
 **Quais são as melhores cartas do mercador?**
 
 As melhores cartas que você pode comprar do mercador são:
-* __Besta Mítica Cérbero__ - *Super Rara*
-* __Inovcador do Dragão Azul__ - *Super Rara*
-* __Dragão de Cano Duplo__ - *Ultra Rara*
-* __Riryoku__ - *Ultra Rara*
-* __Espada dos Rituais Sombrios__ - *Super Rara*
-* __Polimerização__ - *Super Rara*
+* __Besta Mítica Cérbero__ - Super Rara
+* __Inovcador do Dragão Azul__ - Super Rara
+* __Dragão de Cano Duplo__ - Ultra Rara
+* __Riryoku__ - Ultra Rara
+* __Espada dos Rituais Sombrios__ - Super Rara
+* __Polimerização__ - Super Rara
 
 **Eu não tenho "bolinhas" para trocar cards com o mercador!**
 
