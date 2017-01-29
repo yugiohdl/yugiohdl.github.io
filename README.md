@@ -11,7 +11,7 @@ No grupo você encontra duelistas veteranos, dicas e muita zoeira (essa parte n�
 As melhores cartas que você pode comprar do mercador são:
 
 * __Besta Mítica Cérbero__ - Super Rara
-* __Inovcador do Dragão Azul__ - Super Rara
+* __Invocador do Dragão Azul__ - Super Rara
 * __Dragão de Cano Duplo__ - Ultra Rara
 * __Riryoku__ - Ultra Rara
 * __Espada dos Rituais Sombrios__ - Super Rara
@@ -33,20 +33,20 @@ As melhores cartas que você pode comprar do mercador são:
 Para ganhar gemas complete as missões da fase, suba no rank nos duelos rankeados, complete a escola de duelo, suba o nível dos personagens e sempre entre no jogo, pois a KONAMI dá gemas de vez enquanto.
 
 ## Desbloqueando os personagens
-* Yami Yugi (Se você escolheu Kaiba) - Chegue na fase 15
-* Seto Kaiba (Se você escolheu Yugi) - Chegue na fase 15
-* Joey Wheeler - Chegue na fase 3
-* Tea Gardner - Chegue na fase 5
-* Mai Valentine - Chegue na fase 10
-* Rex Raptor - Chegue na fase 20
-* Weevil Underwood - Ganhe 100 vezes de NPCs normais
-* Mako Tsunami - Invoque 150 vezes monstros que precisam de tributo
-* Bandit Keith - Ganhe 50 vezes de NPCs lendários
-* Ishizu Ishtar - Invoque monstros de LUZ 200 vezes
-* Odin - Utilize cards armadilha 300 vezes
-* Pegasus - Ganhe 250.000 pontos no evento Mundo Toon
-* Yami Bakura - Ainda não disponível
-* Yami Marik - Ainda não disponível
+* __Yami Yugi__ (Se você escolheu Kaiba) - Chegue na fase 15
+* __Seto Kaiba__ (Se você escolheu Yugi) - Chegue na fase 15
+* __Joey Wheeler__ - Chegue na fase 3
+* __Tea Gardner__ - Chegue na fase 5
+* __Mai Valentine__ - Chegue na fase 10
+* __Rex Raptor__ - Chegue na fase 20
+* __Weevil Underwood__ - Ganhe 100 vezes de NPCs normais
+* __Mako Tsunami__ - Invoque 150 vezes monstros que precisam de tributo
+* __Bandit Keith__ - Ganhe 50 vezes de NPCs lendários
+* __Ishizu Ishtar__ - Invoque monstros de LUZ 200 vezes
+* __Odin__ - Utilize cards armadilha 300 vezes
+* __Pegasus__ - Ganhe 250.000 pontos no evento Mundo Toon
+* __Yami Bakura__ - Ainda não disponível
+* __Yami Marik__ - Ainda não disponível
 
 ### Sim, eu sei
 GitHub pages foi feito para projetos open source e páginas pessoais, só que eu estou cagando e andando para isso, minha web skill é uma merda, então...
